@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safiulanik
-- 👀 I’m interested in Python and JavaScript stack
-- 🌱 I’m currently learning Jenkins and min.io
-- 💞️ I’m looking to collaborate on open source projects
+- 👀  I'm currently a team lead leading a team of 4
+- My daily tech stack is Python/FastAPI/Django/Flask, JavaScript/React/Redux/Node/Express and DevOps/Docker/Jenkins/AWS
+- I'm a passionate problem solver and an expert communicator
 - 📫 You can reach me at linkedin.com/in/safiulanik
 
 <!---
